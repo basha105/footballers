@@ -3,7 +3,8 @@
 }
 
 h1 {
-    color:rgb(85, 91, 107);
+    color:rgb(27, 63, 160);
+    border: 5px rgb(190, 12, 12);
 }
 p {
     color:rgb(29, 118, 206)
@@ -13,4 +14,10 @@ li {
 }
 h2 {
     color: navy;
+}
+
+div {
+    padding: 10px 10px 10px 10px;
+    background-color: lightblue;
+    margin: 10px;
 }
